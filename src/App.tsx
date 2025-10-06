@@ -6,6 +6,7 @@ import {
   Project,
   Contact,
   Navigation,
+  Footer,
 } from "./components";
 import FadeIn from './components/FadeIn';
 import './index.scss';
@@ -34,6 +35,7 @@ function App() {
             <Timeline/>
             <Project/>
             <Contact/>
+            <Footer/>
         </FadeIn>
     </div>
     );
