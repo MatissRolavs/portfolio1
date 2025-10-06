@@ -29,7 +29,7 @@ function Timeline() {
             iconStyle={{ background: '#5000ca', color: 'rgb(39, 40, 34)' }}
             icon={<FontAwesomeIcon icon={faBriefcase} />}
           >
-            <h3 className="vertical-timeline-element-title">Hopefully first intership at Draugiem Group?</h3>
+            <h3 className="vertical-timeline-element-title">Hopefully first intership at Vendon?</h3>
             <h4 className="vertical-timeline-element-subtitle">Riga, Latvia</h4>
           </VerticalTimelineElement>
         </VerticalTimeline>

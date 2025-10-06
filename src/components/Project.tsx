@@ -19,15 +19,15 @@ function Project() {
                 <video width="100%" className="zoom" controls>
                 <source src={`${process.env.PUBLIC_URL}/movies.mp4`} type="video/mp4" />
                 </video>
-                <a href="https://www.filmate.club/" target="_blank" rel="noreferrer"><h2>My first big project - Movie watching website</h2></a>
-                <p>Developed movie watching website using Laravel, MySQL, Tailwind and some JavaScript.</p>
+                <h2>My first big project - Movie watching website</h2>
+                <p>Developed simple movie watching website using Laravel, MySQL, Tailwind and some JavaScript.</p>
             </div>
             <div className="project">
                 <video width="100%" className="zoom" controls>
-                <source src={`${process.env.PUBLIC_URL}/movies.mp4`} type="video/mp4" />
+                <source src={`${process.env.PUBLIC_URL}/f1hub.mp4`} type="video/mp4" />
                 </video>
-                <a href="https://www.filmate.club/" target="_blank" rel="noreferrer"><h2>F1hub</h2></a>
-                <p>Developed movie watching website using Laravel, MySQL, Tailwind and some JavaScript.</p>
+                <h2>F1hub - work in progress</h2>
+                <p>A website for Formula 1 fans, with all driver, race and championship information. Lets user make their own predictions for race and communicate trough forums. Made with Laravel, MySQL, Tailwind, JolpicaApi.</p>
             </div>
         </div>
     </div>
