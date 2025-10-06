@@ -1,8 +1,6 @@
 import React from "react";
 import GitHubIcon from '@mui/icons-material/GitHub';
-import LinkedInIcon from '@mui/icons-material/LinkedIn';
 import '../assets/styles/Main.scss';
-import image from '../assets/images/Photo on 06-10-2025 at 13.33.jpg';
 
 function Main() {
 
