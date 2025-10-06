@@ -49,8 +49,8 @@ function Expertise() {
             <div className="skills-grid">
                 <div className="skill">
                     <img src="https://download.logo.wine/logo/Laravel/Laravel-Logo.wine.png" alt="Laravel logo" width="75" height="50" />
-                    <h3>Laravel app development</h3>
-                    <p>Developed multiple Laravel projects as school assignments, implemented Laravel best practices.</p>
+                    <h3>Laravel</h3>
+                    <p>Developed multiple Laravel projects as school assignments, implemented Laravel best practices, with this framework im most comfortable and expierenced.</p>
                 </div>
 
                 <div className="skill">
@@ -69,6 +69,12 @@ function Expertise() {
                 <img src="https://cdn4.iconfinder.com/data/icons/logos-3/181/MySQL-512.png" alt="MySQL logo" width="70" height="50" />
                     <h3>MySQL</h3>
                     <p>I have a solid understanding of MySQL, including how to design and optimize databases for optimal performance and scalability. I only have used MySQL for databases in my projects.</p>
+                </div>
+
+                <div className="skill">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="React logo" width="60" height="50" />
+                    <h3>React</h3>
+                    <p>I have some experience with it and made few small projects, testing and understanding react, but i have spent less time using it and so in result less knowledge of it.</p>
                 </div>
             </div>
         </div>
